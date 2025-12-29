@@ -1,0 +1,13 @@
+{
+  "name": "riptide-rpi",
+  "description": "Research-Plan-Implement workflow for Linear tickets.",
+  "version": "0.1.0",
+  "author": {
+    "name": "HumanLayer",
+    "email": "support@humanlayer.dev"
+  },
+  "repository": "https://github.com/humanlayer/riptide-rpi",
+  "license": "MIT",
+  "keywords": ["linear", "planning", "rpi"],
+  "category": "development"
+}
