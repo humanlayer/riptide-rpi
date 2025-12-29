@@ -6,8 +6,9 @@ Research-Plan-Implement workflow for Linear tickets with Claude Code.
 
 ```
 /plugin marketplace add humanlayer/riptide-rpi
+/plugin install riptide-rpi@humanlayer-riptide-rpi
 ```
 
 ## Test Installation
 
-Say "hello rpi" to verify the plugin is working.
+Say "set up rpi" to verify the plugin is working and validate prerequisites.
