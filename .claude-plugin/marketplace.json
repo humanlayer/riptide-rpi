@@ -15,7 +15,7 @@
         "name": "HumanLayer",
         "email": "support@humanlayer.dev"
       },
-      "source": ".",
+      "source": "./",
       "category": "development"
     }
   ]
